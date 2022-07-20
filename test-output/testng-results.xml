@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11353" started-at="2022-06-29T15:16:38Z" finished-at="2022-06-29T15:16:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11353" started-at="2022-06-29T15:16:38Z" finished-at="2022-06-29T15:16:50Z">
+      <class name="com.pract.Test2data">
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:com.pract.Test2data@3e9b1010]" name="tc01" duration-ms="4507" started-at="2022-06-29T15:16:39Z" data-provider="getData" finished-at="2022-06-29T15:16:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:com.pract.Test2data@3e9b1010]" name="tc01" duration-ms="2867" started-at="2022-06-29T15:16:44Z" data-provider="getData" finished-at="2022-06-29T15:16:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pravinkumar3056]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pravin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:com.pract.Test2data@3e9b1010]" name="tc01" duration-ms="2975" started-at="2022-06-29T15:16:47Z" data-provider="getData" finished-at="2022-06-29T15:16:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- com.pract.Test2data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
